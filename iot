@@ -6,6 +6,7 @@
 
 
 {"ID:""Paloma Vilchis","mnsg:""Hola comunidad UAM, que todos se enteren que:","Fecha:""22julio2021"} -
+<<<<<<< HEAD
 {"ID:""Luis Angel Sanchez","mnsg:""Hola, me gustan los juegos RTS :)","Fecha:""22julio2021"} -
 
 
@@ -19,7 +20,8 @@
 
 {"ID:""Paloma Vilchis","mnsg:""Hola comunidad UAM, que todos se enteren que:","Fecha:""22julio2021"} -
 
-{"ID:""Joselyn Martinez Miranda","mnsg:""HOLA","Fecha:""24 de julio de 2021"}
+{"ID:""Joselyn Martinez","mnsg""Hola","Fecha:""24julio2021"}
+
 {
     "ID": "Rafael Gonzalez", 
     "msg":"Hola a todos, contando un chiste, habia un perro llamado pegamento se cayo y se pego, jeje",
@@ -27,5 +29,7 @@
     }
 
 
-{"ID:""Alejandro Tovar","mnsg""Hola comunidad UAM","Fecha:""22julio2021"} b6294513e90cd51fd4926903d3b8168f069b8f48
+{"ID:""Alejandro Tovar","mnsg""Hola comunidad UAM","Fecha:""22julio2021"}
+
+=======
 
