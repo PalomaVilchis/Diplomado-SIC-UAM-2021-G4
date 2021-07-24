@@ -7,7 +7,3 @@ Prueba git
 
 Alejandro Tovar Aparicio
 
-
-Alejandro Salinas V. 
-Repositorio de prueba
-commit desde escritorio y archivo de texto. 
