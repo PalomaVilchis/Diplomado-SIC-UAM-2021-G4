@@ -1,2 +1,2 @@
 # Diplomado-SIC-UAM-2021-G4
-Repositorio de prueba Mario Alejandro Pavon Heredia
+Repositorio de prueba
