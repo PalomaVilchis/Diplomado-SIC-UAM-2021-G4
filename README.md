@@ -5,3 +5,4 @@ Luis Angel Sánchez Hernández
 Prueba git
 
 Alejandro Tovar Aparicio
+Oscar Dalai Cedillo Alvarado
