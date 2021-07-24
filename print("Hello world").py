@@ -1,4 +1,3 @@
 import GPIO.rfi as GPIO
 pin = 40
-print("Hello world")
 print("Villanueva Mejia Sebastian Antonio")
