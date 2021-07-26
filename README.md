@@ -2,6 +2,9 @@
 
 Repositorio de prueba
 
+Primer commit Erick Loza
+=======
+
 Alicia Fuentes Martinez
 =======
 
@@ -28,6 +31,7 @@ Alejandro Tovar Aparicio
 
 Ruben Leon Reyes
 =======
+
 
 
 
