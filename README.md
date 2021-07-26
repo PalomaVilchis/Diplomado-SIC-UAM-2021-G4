@@ -2,6 +2,9 @@
 
 Repositorio de prueba
 
+GENARO HERNANDEZ VALDEZ
+=======
+
 Alejandro Tovar Aparicio
 
 =======
@@ -22,6 +25,7 @@ Alejandro Tovar Aparicio
 
 Ruben Leon Reyes
 =======
+
 
 
 
