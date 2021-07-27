@@ -1,11 +1,8 @@
 import GPIO.rfi as GPIO
 pin = 40
-<<<<<<< HEAD
 print("Hola Mundo")
-=======
 
 print("Hola Mundo0")
->>>>>>> cfb98e59e2080b2798b05133ef94d03feeb54bf0
 print("Genaro Hernandez Valdez")
 =======
 
