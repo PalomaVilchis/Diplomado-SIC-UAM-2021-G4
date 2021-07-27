@@ -10,6 +10,13 @@ Repositorio de prueba creado por: Paloma Vilchis
 
 Repositorio de prueba
 
+
+Cambio desde web
+
+Cambio desde local
+
+Cambio desde vscode
+=======
 Abraham González Morales.
 =======
 
