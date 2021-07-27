@@ -1,5 +1,6 @@
 import GPIO.rfi as GPIO
 pin = 40
+<<<<<<< HEAD
 
 print("Fernando Cazares")
 =======
@@ -187,3 +188,6 @@ print("Martin Terrazas Ortiz")
 =======
 
 
+=======
+print("Hola mi nombre es Carlos Adolfo Gonzalez Torres y  hay que ir por ceveza uwu")
+>>>>>>> e96e7a94b6245423bfad949ed171ab2b10bdfd84
