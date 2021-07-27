@@ -1,5 +1,6 @@
 import GPIO.rfi as GPIO
 pin = 40
+print("Hola Mundo")
 
 print("Hello world")
 print("Carlos Andres Torres")
