@@ -1,6 +1,9 @@
 # Diplomado-SIC-UAM-2021-G4
 
+
 =======
+=======
+
 
 Repositorio de prueba creado por: Paloma Vilchis
 =======
@@ -41,6 +44,8 @@ Prueba git
 
 Alejandro Tovar Aparicio
 
+
+=======
 Oscar Dalai Cedillo Alvarado
 =======
 
