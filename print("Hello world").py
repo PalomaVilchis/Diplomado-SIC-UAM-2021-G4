@@ -1,10 +1,78 @@
 import GPIO.rfi as GPIO
 pin = 40
 
+print('Diego Flores Chávez')
+=======
+
+print("Hello world")
+
+print("Rafael Gonzalez Martinez")
+print("Oscar Dalai Cedillo Alvarado")
+=======
+
+print("Rafael Gonzalez Martinez")
+=======
+print("xD")
+
+=======
+print("Areli Rojo Hernández")
+print("24 de julio de 2021")
+=======
+
+print("Hello world")
+print("Josué Padilla C.")
+=======
+
+print("Hello world")
+print("Hola mundo 2... XD")
+=======
+
+print("Hola compañeros panteritas atte Gustavo Mateo")
+=======
+
+print("el universo es una creación mental sostenida en la mente del todo")
+print("cap")
+=======
+
+print("Hello world")
+
+print("José","Daniel","Ayala","DeLaRosa", sep=" ", end=":)")
+=======
+
+print("Rafael Gonzalez Martinez")
+print("César JALPA VILLANUEVA")
+=======
+print("Arturo Zuñiga Lopez")
+=======
+
+print("Hello world")
+print("Arturo Nava Preza")
+=======
+
+print("Hello world")
+print("Cesar Benavides Alvarez")
+=======
+
+print("Hello world")
+
+print("Rafael Gonzalez Martinez")
+print("Oscar Daniel De la Rosa Villegas")
+=======
+print("Hello soy Iván Córdova de la Fuente")
+=======
+print("Hola Mundo")
+
+print("Hello world")
+print("Carlos Andres Torres")
+=======
+
 print("Hello world")
 
 print("Rafael Gonzalez Martinez")
 print("Jorge Miron")
+
+print("Marlen Moran Camero_modificar")
+=======
 =======
 print("Erick Raul Loza DOminguez")
 =======
@@ -90,9 +158,9 @@ print("Marìa Sànchez")
 
 print("Luis Alfredo Pérez Mendoza")
 
-
-
-
-
+=======
+print("Rafael Gonzalez Martin
+print("Martin Terrazas Ortiz")
+=======
 
 
