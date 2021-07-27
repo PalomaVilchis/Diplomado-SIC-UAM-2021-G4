@@ -10,6 +10,9 @@ print("cap")
 
 print("Hello world")
 
+print("José","Daniel","Ayala","DeLaRosa", sep=" ", end=":)")
+=======
+
 print("Rafael Gonzalez Martinez")
 print("César JALPA VILLANUEVA")
 =======
@@ -139,6 +142,7 @@ print("Marìa Sànchez")
 print("Rafael Gonzalez Martin
 print("Martin Terrazas Ortiz")
 =======
+
 
 
 
