@@ -1,5 +1,7 @@
 # Diplomado-SIC-UAM-2021-G4
 
+=======
+
 Repositorio de prueba creado por: Paloma Vilchis
 =======
 
@@ -30,6 +32,7 @@ Repositorio de prueba
 
 Alejandro Tovar Aparicio
 
+
 Repositorio de prueba creado por: Paloma Vilchis
 
 
@@ -38,6 +41,12 @@ Prueba git
 
 Alejandro Tovar Aparicio
 
+
+=======
+Repositorio de prueba
+Ivan Baltazar
+
+=======
 
 Ruben Leon Reyes
 =======
@@ -49,5 +58,6 @@ Ruben Leon Reyes
 
 =======
 Marlen Moran Camero
+
 
 
