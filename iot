@@ -129,7 +129,7 @@
     }
 
 {"ID:""Paloma Vilchis","mnsg:""Hola comunidad UAM, que todos se enteren que:","Fecha:""22julio2021"} -
-<<<<<<< HEAD
+
 
 
 { 
@@ -166,6 +166,21 @@
 {"ID:""Alejandro Tovar","mnsg""Hola comunidad UAM","Fecha:""22julio2021"} b6294513e90cd51fd4926903d3b8168f069b8f48
 =======
 
+
+{"ID:""Alejandro Tovar","mnsg""Hola comunidad UAM","Fecha:""22julio2021"} 
+
+
+{
+    "ID": "Oscar Cedillo" Alvarado, 
+    "msg":"Hola a todos",
+    "Fecha":"22/Julio/21"
+    }
+    {
+    "ID": "Oscar Cedillo" Alvarado, 
+    "msg":"HSegunda modificación",
+    "Fecha":"22/Julio/21"
+    }
+=======
 {"ID:""Alejandro Tovar","mnsg""Hola comunidad UAM","Fecha:""22julio2021"} b6294513e90cd51fd4926903d3b8168f069b8f48
 {"ID:""Ruben Leon","mnsg""Hola comunidad UAM","Fecha:""24julio2021"}
 =======
@@ -208,8 +223,7 @@
 
 
 
-
 {"ID":"Ivan Baltazar","mnsg:""En Casa","Fecha:""24julio2021"}
 =======
 {"ID:""Ivan Baltazar","mnsg:""En Casa","fecha:""22Julio2021"}
->>>>>>> b20f86dc384530f25785e30b850ba21675e6357d
+
