@@ -14,9 +14,10 @@ print("Saul Herrera Saavedra")
 
 print("Hello world")
 
+
 print("Rafael Gonzalez Martinez")
 print("Miguel Magos")
-=======
+
 print("Abraham Gonzalez Morales")
 =======
 
@@ -144,7 +145,7 @@ print("Mariana Ramírez Sánchez")
 
 print("Hello world")
 print("Jonathan Ramirez S.")
-print("Nueva prueba ")
+print("Nueva pru{"ID:""Ivan Baltazar","mnsg:""En Casa","fecha:""22Julio2021"}eba ")
 =======
 
 print("Hello world")
@@ -194,6 +195,8 @@ print("Luis Alfredo Pérez Mendoza")
 print("Rafael Gonzalez Martin
 print("Martin Terrazas Ortiz")
 =======
+print("Miguel Angel Jimenez Salazar")
+
 
 
 =======
