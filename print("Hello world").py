@@ -193,4 +193,4 @@ print("Miguel Angel Jimenez Salazar")
 
 print("Hola mi nombre es Carlos Adolfo Gonzalez Torres y  hay que ir por ceveza uwu")
 
-print("Jair Zamorano Garcia, buenos dias")
+print("Jair Zamorano Garcia, buenas")
