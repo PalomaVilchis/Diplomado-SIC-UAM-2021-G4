@@ -1,4 +1,7 @@
 
+{\"ID\":\"Genaro Hernandez Valdez\",\"mnsg\":\"Formato JSON\",\"fecha\":\"30julio2021\"}
+
+{\"ID\":\"Genaro Hernandez\",\"msg\":\"Hola Comunidad UAM, la diagonal invertida se debe colocar antes de cada comilla\",\"fecha\":\"30 de julio de 2021\"}
 {"ID:""Diego Romo","mnsg:""Hola amigos, me gusta tocar la guitarra y jugar playstation","Fecha:""27julio2021"}
 =======
 
@@ -114,6 +117,9 @@
 
 
 {"ID":"Aranza Judith Aguirre Dolores","mnsg:""La comida de la UAM es la mejor","Fecha:""22julio2021"}
+
+"{\"ID:\"\"Aranza Judith Aguirre\",\"mnsg:\"\"Que todos se enteren que la comida de la UAM es la mejor\",\"Fecha:\"\"22julio2021\"}"
+
 
 {"ID:""Alejandro Tovar","mnsg""Hola comunidad UAM","Fecha:""22julio2021"}
 
@@ -287,4 +293,15 @@
 
 {"ID:""miguelajs2002","mnsg:""Hola me llamo Miguel Angel y me gusta escuchar a Skrillex XD","Fecha:""23julio2021"}
 
+
 {"ID:""Germán Pacheco Castillo","mnsg:""Hola comunidad UAM, me llamo Germán y me gusta la música electronica","Fecha:""1agosto2021"}
+=======
+
+{"ID:""Merle Yuridia","mnsg:""Hola me llamo merle y estoy un poco atrasada sorry","Fecha:""02agosto2021"}
+=======
+
+=======
+
+{"ID:""Jair Zamorano Garcia","mnsj:""Tacos de sardina a la orden","Fecha:""31julio2021""}
+
+
