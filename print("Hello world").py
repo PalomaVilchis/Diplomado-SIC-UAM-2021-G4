@@ -1,5 +1,102 @@
 import GPIO.rfi as GPIO
 pin = 40
+
+print("Hello world")
+print("Diego Romo")
+=======
+
+
+print("Hello world")
+print("Hello World 2")
+=======
+
+print("Fernando Cazares")
+=======
+
+print("Saul Herrera Saavedra")
+=======
+
+print("Hello world")
+
+
+print("Rafael Gonzalez Martinez")
+print("Miguel Magos")
+
+print("Abraham Gonzalez Morales")
+=======
+
+print("Hello world")
+
+print("Rafael Gonzalez Martinez")
+print("Alejandro Salinas")
+=======
+print("Jorge Luis Cruz González")
+=======
+
+print("Hello world")
+
+print("David Arturo Castellanos Guzman")
+=======
+
+print('Diego Flores Chávez')
+=======
+
+print("Hello world")
+
+print("Rafael Gonzalez Martinez")
+print("Oscar Dalai Cedillo Alvarado")
+=======
+
+print("Rafael Gonzalez Martinez")
+=======
+print("xD")
+
+=======
+print("Areli Rojo Hernández")
+print("24 de julio de 2021")
+=======
+
+print("Hello world")
+print("Josué Padilla C.")
+=======
+
+print("Hello world")
+print("Hola mundo 2... XD")
+=======
+
+print("Hola compañeros panteritas atte Gustavo Mateo")
+=======
+
+print("el universo es una creación mental sostenida en la mente del todo")
+print("cap")
+=======
+
+print("Hello world")
+
+print("José","Daniel","Ayala","DeLaRosa", sep=" ", end=":)")
+=======
+
+print("Rafael Gonzalez Martinez")
+print("César JALPA VILLANUEVA")
+=======
+print("Arturo Zuñiga Lopez")
+=======
+
+print("Hello world")
+print("Arturo Nava Preza")
+=======
+
+print("Hello world")
+print("Cesar Benavides Alvarez")
+=======
+
+print("Hello world")
+
+print("Rafael Gonzalez Martinez")
+print("Oscar Daniel De la Rosa Villegas")
+=======
+print("Hello soy Iván Córdova de la Fuente")
+=======
 print("Hola Mundo")
 
 print("Hello world")
@@ -52,7 +149,7 @@ print("Mariana Ramírez Sánchez")
 
 print("Hello world")
 print("Jonathan Ramirez S.")
-print("Nueva prueba ")
+print("Nueva pru{"ID:""Ivan Baltazar","mnsg:""En Casa","fecha:""22Julio2021"}eba ")
 =======
 
 print("Hello world")
@@ -96,9 +193,16 @@ print("Rafael Gonzalez Martinez")
 
 print("Marìa Sànchez")
 
+print("Luis Alfredo Pérez Mendoza")
+
+=======
+print("Rafael Gonzalez Martin
+print("Martin Terrazas Ortiz")
+=======
+print("Miguel Angel Jimenez Salazar")
 
 
 
-
-
+=======
+print("Hola mi nombre es Carlos Adolfo Gonzalez Torres y  hay que ir por ceveza uwu")
 
