@@ -1,7 +1,10 @@
 import GPIO.rfi as GPIO
 pin = 40
-
 print("Hello world")
+
+print("Rafael Gonzalez Martinez")
+print("Merle Yuridia Meza")
+=======
 print("Diego Romo")
 
 
@@ -194,3 +197,4 @@ print("Miguel Angel Jimenez Salazar")
 print("Hola mi nombre es Carlos Adolfo Gonzalez Torres y  hay que ir por ceveza uwu")
 
 print("Jair Zamorano Garcia")
+
