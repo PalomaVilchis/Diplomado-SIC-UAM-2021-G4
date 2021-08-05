@@ -1,7 +1,7 @@
 import GPIO.rfi as GPIO
 pin = 40
 print("Hello wold")
-print("Ezequiel Rodriguez")
+print("Ezequiel Rodriguez R")
 print("Hello world")
 
 print("Rafael Gonzalez Martinez")
