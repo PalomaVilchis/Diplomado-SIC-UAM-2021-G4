@@ -24,5 +24,7 @@ Lista de ejercicios:
       - Por edad
       - Por Apellido
       - Por unidad académica
+  - Gráficas de datos usando Plotly y JS
+  - Uso de APIs con JS
 
 
